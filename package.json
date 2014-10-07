@@ -1,0 +1,22 @@
+{
+  "name": "travis-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonbloom/travis-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonbloom/travis-test/issues"
+  },
+  "homepage": "https://github.com/brandonbloom/travis-test",
+  "dependencies": {
+    "exec-sync": "^0.1.6"
+  }
+}
